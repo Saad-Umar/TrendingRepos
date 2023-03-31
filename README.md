@@ -13,10 +13,10 @@ A showcase project for SwiftUI, MVVM using Test Driven Development (TDD) approac
 
 Screens
 
-<img src="https://drive.google.com/uc?export=view&id=1cbzm-Urvz0INBSnwx74_B2JIKqNOIxlH" width="300" height="650">
-<img src="https://drive.google.com/uc?export=view&id=1iyWwMAGzEPGU-G-9KCgahkAquS4wBDr7" width="300" height="650">
-<img src="https://drive.google.com/uc?export=view&id=1Xeqzep_lfTz-5ub8pTBDWt3IgMkXJIeV" width="300" height="650">
-<img src="https://drive.google.com/uc?export=view&id=1kwP8MJYmbaIR0v9OKGDGRMNo4K8emBj6" width="300" height="650">
+<img src="https://drive.google.com/uc?export=view&id=1cbzm-Urvz0INBSnwx74_B2JIKqNOIxlH" width="150" height="325">
+<img src="https://drive.google.com/uc?export=view&id=1iyWwMAGzEPGU-G-9KCgahkAquS4wBDr7" width="150" height="325">
+<img src="https://drive.google.com/uc?export=view&id=1Xeqzep_lfTz-5ub8pTBDWt3IgMkXJIeV" width="150" height="325">
+<img src="https://drive.google.com/uc?export=view&id=1kwP8MJYmbaIR0v9OKGDGRMNo4K8emBj6" width="150" height="325">
 
 
 # Setup and Usage:
