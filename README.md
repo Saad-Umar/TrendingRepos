@@ -22,4 +22,4 @@ A showcase project for SwiftUI, MVVM using Test Driven Development (TDD) approac
 
 # Requirement(s):
 
-* iOS 13 and above (but best experience on iOS 15)
+* iOS 13 and above (but for best experience run on iOS 15)
